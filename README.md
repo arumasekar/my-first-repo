@@ -5,5 +5,4 @@ NPM     : 2206816115
 Kelas   : PBP B
 
 Hobi    : Bersepeda
-
 Jurusan : Sistem Informasi
